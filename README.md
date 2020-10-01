@@ -10,11 +10,11 @@ The following list of resources contains scholarship information for both milita
 
 ## Table of Contents:
 
--   [Military Community Only Scholarship Programs](#military-community-only-scholarship-programs)
--   [Non-Military Scholarship Programs](#non-military-scholarship-programs)
--   [Conference Scholarships](#conference-scholarships)
--   [How to Contribute](#contributing)
--   [MSC Code of Conduct](#code-of-conduct)
+- [Military Community Only Scholarship Programs](#military-community-only-scholarship-programs)
+- [Non-Military Scholarship Programs](#non-military-scholarship-programs)
+- [Conference Scholarships](#conference-scholarships)
+- [How to Contribute](#contributing)
+- [MSC Code of Conduct](#code-of-conduct)
 
 #
 
@@ -22,27 +22,39 @@ The following list of resources contains scholarship information for both milita
 
 1. [National Military Family Association](https://www.militaryfamily.org/programs/spouses-scholarships/) - A scholarship program for military spouses to help pay for school tuition, career licensing, or spouse-owned busineses.
 
-    _2021 applications open October 1, 2020._
+   _2021 applications open October 1, 2020._
 
 2. [The Tillman Scholar Program](https://pattillmanfoundation.org/apply-to-be-a-scholar/) - Tillman Scholars are military service members, veterans and spouses with a high potential for impact as demonstrated through a proven track record of leadership, the continued pursuit of education and the commitment of their resources to service beyond self.
 
-    _Program will continue in 2021_
+   _Program will continue in 2021_
 
 3. [ThanksUSA Scholarship Program](https://www.thanksusa.org/scholarships.html) - Scholarships available for dependent children as well as spouses for first-time undergratuate study as well as non-degree professional licensing.
 
-    _Program will continue in 2021_
+   _Program will continue in 2021_
 
 ## Non-Military Scholarship Programs
 
 1. [Society of Women Engineers](https://swe.org/scholarships/) - SWE Scholarships support those who identify as a female/woman and are pursuing an ABET-accredited bachelor or graduate student program in preparation for careers in engineering, engineering technology and computer science in the United States. Complete one application to be considered for all scholarships for which you are eligible.
 
-    _2021 applications open December 1, 2020._
+   _2021 applications open December 1, 2020._
+
+2. [Selected Professions Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/selected-professions-fellowships/) -
+   Selected Professions Fellowships are awarded to women who intend to pursue a full-time course of study at accredited U.S. institutions during the fellowship year in one of the designated degree programs where women’s participation traditionally has been low.
+   Selected Professions Fellowships are awarded for the following master’s programs:
+
+   - Computer/information sciences
+   - Engineering
+   - Mathematics/statistics
+
+_Deadline December 1, 2020. by 11:59 p.m. Central Time_
+
+_Deadline December 1, 2020. by 11:59 p.m. Central Time_
 
 ## Conference Scholarships
 
 1. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) - Microsoft awards tuition and conference scholarships each year to encourage students to further their learnings in Computer Science and related STEM (Science, Technology, Engineering, and Math) disciplines.
 
-    _Program will re-launch in 2021_
+   _Program will re-launch in 2021_
 
 # Contributing
 
