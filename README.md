@@ -4,6 +4,8 @@
 
 # MSC Scholarship Resources
 
+<img style="left" src="assets/msc-Logo6inx6inText-TransparentBg.png" width="200" />
+
 The following list of resources contains scholarship information for both military and non-military based scholarship programs.
 
 ## Table of Contents:
