@@ -24,6 +24,14 @@ The following list of resources contains scholarship information for both milita
 
     _2021 applications open October 1, 2020._
 
+2. [The Tillman Scholar Program](https://pattillmanfoundation.org/apply-to-be-a-scholar/) - Tillman Scholars are military service members, veterans and spouses with a high potential for impact as demonstrated through a proven track record of leadership, the continued pursuit of education and the commitment of their resources to service beyond self.
+
+    _Program will continue in 2021_
+
+3. [ThanksUSA Scholarship Program](https://www.thanksusa.org/scholarships.html) - Scholarships available for dependent children as well as spouses for first-time undergratuate study as well as non-degree professional licensing.
+
+    _Program will continue in 2021_
+
 ## Non-Military Scholarship Programs
 
 1. [Society of Women Engineers](https://swe.org/scholarships/) - SWE Scholarships support those who identify as a female/woman and are pursuing an ABET-accredited bachelor or graduate student program in preparation for careers in engineering, engineering technology and computer science in the United States. Complete one application to be considered for all scholarships for which you are eligible.
