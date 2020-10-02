@@ -32,7 +32,7 @@ The following list of resources contains scholarship information for both milita
 
     _Program will continue in 2021_
 
-4. [My Career Advancement Account Scholarship Program (MyCAA](https://mycaa.militaryonesource.mil/mycaa) - a workforce development program that provides up to \$4,000 of financial assistance for licenses, certifications, or Associate’s degrees to pursue an occupation or career field. Spouses of service members on active duty in pay grades E-1 to E-5, W-1 to W-2 and O-1 to O-2.
+4. [My Career Advancement Account Scholarship Program (MyCAA)](https://mycaa.militaryonesource.mil/mycaa) - a workforce development program that provides up to \$4,000 of financial assistance for licenses, certifications, or Associate’s degrees to pursue an occupation or career field. Spouses of service members on active duty in pay grades E-1 to E-5, W-1 to W-2 and O-1 to O-2.
 
 ## Non-Military Scholarship Programs
 
@@ -51,6 +51,8 @@ The following list of resources contains scholarship information for both milita
     _Deadline December 1, 2020. by 11:59 p.m. Central Time_
 
 3. [SWSIS - Scholarships for Women Studying Information Security](https://cra.org/cra-wp/scholarships-and-awards/scholarships/swsis/) - The SWSIS program provides scholarships of up to \$10,000 for women studying for their Bachelors and Masters degrees in fields relating to information security.
+
+    _Application Period: December 15 - February 1_
 
 ## Conference Scholarships
 
