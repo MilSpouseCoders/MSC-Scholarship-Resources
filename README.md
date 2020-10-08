@@ -60,6 +60,10 @@ The following list of resources contains scholarship information for both milita
 
     _Program will re-launch in 2021_
 
+2. [Grace Hopper Celebration](https://ghc.anitab.org/attend/scholarships/) - Scholarships provide funds for undergraduate students, graduate students, faculty, women in boot camp, and women of color in technology to attend the Celebration.
+
+    _Program will re-launch around January 2021_
+
 ## Bootcamp Scholarships
 
 1. [Code Platoon MilSpouse Coders Scholarship](https://www.codeplatoon.org/scholarships/) - For two military spouses per cohort.
