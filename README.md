@@ -54,7 +54,7 @@ The following list of resources contains scholarship information for both milita
 
    _Application Period: December 15 - February 1_
 
-4. [BHW - Women in STEM academic scholarshipy](https://thebhwgroup.com/scholarship) - Women who are pursuing an undergraduate or master's degree and are majoring in science, technology, engineering, or mathematics during the 2021 school year. Scholarship amount is \$3,000.
+4. [BHW - Women in STEM academic scholarship](https://thebhwgroup.com/scholarship) - Women who are pursuing an undergraduate or master's degree and are majoring in science, technology, engineering, or mathematics during the 2021 school year. Scholarship amount is \$3,000.
 
    _open in January and are due each April 15th. The winner will be announced on May 15th._
 
