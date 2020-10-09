@@ -54,9 +54,25 @@ The following list of resources contains scholarship information for both milita
 
    _Application Period: December 15 - February 1_
 
-4. [BHW - Women in STEM academic scholarshipy](https://thebhwgroup.com/scholarship) - Women who are pursuing an undergraduate or master's degree and are majoring in science, technology, engineering, or mathematics during the 2021 school year. Scholarship amount is \$3,000.
+4. [BHW - Women in STEM academic scholarship](https://thebhwgroup.com/scholarship) - Women who are pursuing an undergraduate or master's degree and are majoring in science, technology, engineering, or mathematics during the 2021 school year. Scholarship amount is \$3,000.
 
    _open in January and are due each April 15th. The winner will be announced on May 15th._
+
+5. [SMART SCHOLARSHIP FOR SERVICE - Women in STEM academic scholarship](https://www.smartscholarship.org/smart?id=scholarship_application_part_i) - SMART Scholars enter the program to pursue their education in some of the leading STEM fields currently in high demand by the United States Government. The program offers scholarships for bachelors, masters and PhD students pursuing STEM. While in school, students will receive full tuition, monthly stipends, health insurance and book allowances, as well as summer internships that range from 8 to 12 weeks. Upon degree completion, scholars begin working in a civilian position with their sponsoring facility. The internships and work experience allow scholars the opportunity to learn from the greatest minds in STEM and defense. Not only do scholars pursue their passions in their respective field during their educational phase, but they begin a journey towards an empowering career to protect national security.
+   Benefits Summary
+   SMART Scholars are provided with the tools required to pursue their STEM education and begin their career in a prestigious civilian position with the Department of Defense (DoD).
+
+Benefits include:
+
+- Full tuition and education related educational expenses (meal plans, housing, and parking not included)
+- Stipend paid at a rate of $25,000 - $38,000 a year depending on degree level (may be prorated depending on award length)
+- Summer research internships ranging from 8 to 12 weeks
+- Health Insurance allowance of up to \$1,200 per academic year
+- Miscellaneous allowance of up to \$1,000 per academic year
+- An experience mentor at one of the Sponsoring Facilities
+- Employment placement at a DoD facility upon degree completion.
+
+  _For each academic year of a scholar's award, he/she is required to commit to one year (12 months) of civilian employment with the DoD. Scholars who fail to comply with the degree completion and conferral time lines on their application will be required to provide an increased ratio of post-graduation service to length of award. Students will be placed in DoD facilities in civilian positions and must be geographically mobile for placement following graduation._
 
 ## Conference Scholarships
 
