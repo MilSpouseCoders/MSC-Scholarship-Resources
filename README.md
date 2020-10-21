@@ -89,6 +89,9 @@ Benefits include:
 1.  [Code Platoon MilSpouse Coders Scholarship](https://www.codeplatoon.org/scholarships/) - For two military spouses per cohort.
     Valued at $13,000 in-person tuition and $16,000 remote tuition.
     _Application Period: Year-round_
+    
+2.  [Bloc Close the Gap Scholarship](https://try.bloc.io/close-the-gap-scholarship/) - Partial scholarship for women entering Bloc's bootcamp. Up to 25% tuition discount.
+    _Application Period: Year-round_
 
 # Contributing
 
