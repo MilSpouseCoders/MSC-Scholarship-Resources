@@ -34,6 +34,10 @@ The following list of resources contains scholarship information for both milita
 
 4. [My Career Advancement Account Scholarship Program (MyCAA)](https://mycaa.militaryonesource.mil/mycaa) - a workforce development program that provides up to \$4,000 of financial assistance for licenses, certifications, or Associate’s degrees to pursue an occupation or career field. Spouses of service members on active duty in pay grades E-1 to E-5, W-1 to W-2 and O-1 to O-2.
 
+5. [Code Platoon - Team Treehouse Scholarship](https://airtable.com/shrJ49e1TFoXVzzKP) - Treehouse or is an online technology school that offers beginner to advanced courses in web design, web development, mobile development and game development. Its courses are aimed at beginners looking to learn coding skills for a career in the tech industry.
+
+6. [Code Platoon - Linux Academy Scholarship](https://airtable.com/shrEUk3EUckrQAtei) - An online training organization that offers lessons not only in Linux, but also in other open source–related topics, such as Amazon Web Services (AWS), OpenStack, DevOps, Azure, Big Data, and containers, with new and quick training courses being added regularly as the demand increases.
+
 ## Non-Military Scholarship Programs
 
 1. [Society of Women Engineers](https://swe.org/scholarships/) - SWE Scholarships support those who identify as a female/woman and are pursuing an ABET-accredited bachelor or graduate student program in preparation for careers in engineering, engineering technology and computer science in the United States. Complete one application to be considered for all scholarships for which you are eligible.
