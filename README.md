@@ -104,3 +104,19 @@ Please checkout the [CONTRIBUTING.md](CONTRIBUTING.md) file for information on h
 # Code of Conduct
 
 MSC Code of Conduct rules can be found [here](CODE_OF_CONDUCT.md).
+
+<br>
+
+[![iconmonstr-github-1-64](https://user-images.githubusercontent.com/53100968/96376712-6fb4f080-1135-11eb-88e2-9a851adea655.png)](https://github.com/MilSpouseCoders)
+
+[![iconmonstr-youtube-6-64](https://user-images.githubusercontent.com/53100968/96376622-e9001380-1134-11eb-9156-d70c61e26c7d.png)](https://www.youtube.com//channel/UCu0hl34X3ko53WSbHI1Olkw)
+
+[![iconmonstr-instagram-11-64](https://user-images.githubusercontent.com/53100968/96376584-ba823880-1134-11eb-9214-47f83ed7cf8d.png)](https://www.instagram.com/milspousecoders/)
+
+[![iconmonstr-facebook-6-64](https://user-images.githubusercontent.com/53100968/96376556-8eff4e00-1134-11eb-929c-c337cc16be7e.png)](https://www.facebook.com/MilSpouseCoders/)
+
+[![iconmonstr-linkedin-3-64](https://user-images.githubusercontent.com/53100968/96376773-be628a80-1135-11eb-9524-18216a7b897d.png)](https://www.linkedin.com/company/milspousecoders/)
+
+[![iconmonstr-twitter-1-64](https://user-images.githubusercontent.com/53100968/96376805-eb16a200-1135-11eb-901f-2e0b1683c583.png)](https://twitter.com/milspousecoders?lang=en)
+
+[![iconmonstr-whats-hot-2-64](https://user-images.githubusercontent.com/53100968/96376839-1a2d1380-1136-11eb-90d5-b975954f1126.png)](https://www.bonfire.com/milspouse-coders/)
